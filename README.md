@@ -3,6 +3,14 @@
 
 🦶 TOEKEN Marketplace (v1.03)
 
+supply Toekens from apestore 
+
+name: Toeken 
+
+punchline
+
+ken got kicked out of barbie dream house and she toed his car 
+
 Crypto runs different now. TOEKEN steps first.
 
 This is the official open-source software for running a worldwide marketplace that uses TOEKEN as the only payment currency. Built on Base Mainnet, it connects sellers, buyers, and government vendors under one smart contract. made by wm97 star power.
