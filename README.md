@@ -20,7 +20,7 @@ But this ain’t just a marketplace. This is a fully stacked crypto commerce sys
 
 ---
 
-🧠 Core Features
+🧠 Core Features of the foot 
 
 🪙 TOEKEN Only: All payments, listings, and fees use TOEKEN. Gas stays on Base.
 
@@ -44,7 +44,7 @@ But this ain’t just a marketplace. This is a fully stacked crypto commerce sys
 
 ---
 
-🛠 What's Inside
+🛠 What's Inside the foot
 
 This folder comes fully loaded:
 
@@ -68,7 +68,7 @@ This folder comes fully loaded:
 
 ---
 
-🧩 Add-Ons & Optional Tools
+🧩 Add-Ons & Optional Tools to the foot
 
 Connect CashApp, Venmo, Apple Pay, Google Pay, PayPal
 
@@ -82,7 +82,7 @@ Add more product databases (w1, w2, w3) to save money and scale listings
 
 ---
 
-🦶 Final Word
+🦶 Final foot
 
 This marketplace ain’t small-time. This is enterprise-ready, gov-compliant, and crypto-native. Open source. Built for velocity. Built for power. Built for TOEKEN.
 
