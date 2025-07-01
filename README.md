@@ -90,51 +90,99 @@ Drop it on your GitHub, claim your domain, and let the marketplace work for you'
 
 
 /toeken-marketplace/
+
 ├── README.md
+
 ├── LICENSE
+
 ├── index.html
+
 ├── gov_market_index.html
+
 ├── index.tsx
+
 ├── admin.html
+
 ├── rules.html
+
 ├── crypto_tax.html
+
 ├── support.html
+
 ├── purchase_history.html
+
 ├── product.html
+
 ├── product.js
+
 ├── product_database.html
+
 ├── upanel.html
+
 ├── user_profile.html
+
 ├── vierfy.html
+
 ├── license.mit.txt
+
 ├── manifest.json
+
 ├── node.js
+
 ├── plugin_api.js
+
 ├── ddos_guard.js
+
 ├── encryption_engine.js
+
 ├── rotate_keys.js
+
 ├── firebase_api.js
+
 ├── contracts/
+
 │   └── Marketplace.sol ← updated for TOEKEN, Base Mainnet, $0.0007 listing fee
+
 ├── nft_api/
+
 │   └── rarible.js, opensea.js, okx.js ← supports lazy mint + metadata sync
+
 ├── components/
+
 │   ├── Upanel.tsx ← encrypted listings, user wallet, challenge, TOEKEN balance
+
 │   └── WalletConnect.tsx
+
 ├── hooks/
+
 │   └── useToekenPrice.ts
+
 ├── public/
+
 │   └── logo.png (your TOEKEN foot logo)
+
 ├── secure-https-enhanced/
+
 │   ├── README.md
+
 │   ├── LICENSE
+
 │   ├── manifest.json
+
 │   ├── demo/
+
 │   │   └── secure_https_demo.html
+
 │   ├── docs/
+
 │   │   └── whitepaper.pdf (optional)
+
 │   └── src/
+
 │       ├── encryption_engine.js
+
 │       ├── rotate_keys.js
+
 │       ├── ddos_guard.js
+
 │       └── plugin_api.js
